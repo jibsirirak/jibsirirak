@@ -9,7 +9,7 @@
 Welcome to my profile! I'm Sirirak Atchariyavej. 
 
 - 🔭 I’m a Senior at Kasetsart University Sriracha Campus 
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 📝 [Resume](https://drive.google.com/file/d/1utb23FyU78Yjmgdm8vOvO8m0tbJmgR8G/view?usp=sharing)
 
 
 ## 🛠️ tools
