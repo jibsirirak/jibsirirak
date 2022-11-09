@@ -7,7 +7,7 @@ Welcome to my profile! I'm Sirirak Atchariyavej. (fresh graduate)
 
 - 🔭 I graduated from Kasetsart University Sriracha Campus.
 -  Majored Computer Engineering And Informatics. 
-- 📝 [Resume](https://drive.google.com/file/d/1NAyozONuraIbVKAun0z3wmV8gt9cWIoP/view?usp=sharing)
+- 📝 [Resume](https://github.com/jibsirirak/jibsirirak/files/9969987/Sirirak.Atchariyavej.1.pdf)
 - <a href="https://www.facebook.com/Sirirak.Jip">
     Facebook
   </a>
