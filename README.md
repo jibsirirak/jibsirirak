@@ -3,9 +3,10 @@
 <br />
 <br />
 
-Welcome to my profile! I'm Sirirak Atchariyavej. 
+Welcome to my profile! I'm Sirirak Atchariyavej. (fresh graduate)
 
-- 🔭 I’m a Senior at Kasetsart University Sriracha Campus 
+- 🔭 I graduated from Kasetsart University Sriracha Campus.
+-  Majored Computer Engineering And Informatics. 
 - 📝 [Resume](https://drive.google.com/file/d/1NAyozONuraIbVKAun0z3wmV8gt9cWIoP/view?usp=sharing)
 - <a href="https://www.facebook.com/Sirirak.Jip">
     Facebook
